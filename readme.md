@@ -1,4 +1,4 @@
-# Énonce
+# Énoncé
 
 - Réaliser chaque énoncé dans un fichier portant le nom (écrit en minuscule) de l'énonce, exemple : `enonce-00.php`
 - Récupérer tous les fichiers de ce dépôt afin **d'en créer un** sur votre compte **github** , le rendre **privé** m'envoyer une invitation pour je puisse y avoir accès
@@ -6,7 +6,7 @@
 - Chaque énoncé aura sa **branche** dédié dans la branche **developp**
 - Vous devrez faire des commits fréquents (atomiques) , soigner l'indentation de votre code
 
-## Enonce-00 :
+## Enoncé-00 :
 
 - Créer un tableau php avec ces nombres : 27,15,34,379,248,5643,81,211,999,142,300,572
 - Tester les nombres de ce tableau pour savoir si chaque nombre est pair ou impair (un nombre est pair si le reste de la division par 2 est 0)
@@ -18,7 +18,7 @@
 etc ...
 ```
 
-## Enonce-01 : 
+## Enoncé-01 : 
 
 - Réaliser une fonction qui convertit une température de degré Celsius °C en degré Fahrenheit °F 
 - Afficher les résultats dans un tableau html `table` , utiliser la fonction php `round` pour arrondir à l'unité supérieur
@@ -32,7 +32,7 @@ etc ...
 | 11 | 51.8 |
 
 
-## Enonce-02 :
+## Enoncé-02 :
 
 - Travailler avec le fichier json `persons.json` dans le dossier `data`
 - Afficher le(a) deuxième ami(e) de Raymond Jimenez dans un titre html `<h3>`
@@ -51,18 +51,18 @@ etc ...
 
 Vous trouverez une [capture du résultat attendu](./data/resultat-enonces-02.png).
 
-## Enonces-03 :
+## Enoncé-03 :
 
 A l'aide d'une boucle foreach clef/valeur , parcourir le fichier **colors.json** , afin  d'obtenir le résultats de [la capture d'écran suivante](./data/resultat-enonces-03.png)
 
-## Enonces-04 :
+## Enoncé-04 :
 
 - Récupérer les données que vous renvoie cette url : `https://dummyjson.com/user` 
 - Puis afficher , l'image , le prénom,nom et email de chaque **user**
 
 Voir un exemple de rendu sur [la capture d’écran](./data/dummyjson_user_screenshot.png).
 
-## Enonces-05 :
+## Enoncé-05 :
 
 - Récupérer les données que vous renvoie cette url : `https://randomuser.me/api/?results=20` 
 - Puis afficher , l'image , le prénom,nom et email de chaque **user**
